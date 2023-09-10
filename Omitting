@@ -1,0 +1,21 @@
+Omitting main Method:
+If you omit the main method,  you'll get a compilation error. 
+
+Omitting String in main Method Parameter:
+If you omit the String keyword in the main method parameter, the code will still compile and run.
+However, it won't match the standard method signature for main, and you won't be able to access command-line arguments via the args parameter.
+
+Omitting "HelloWorld" as a Class Name:
+If you omit the class name to something else, the code will still compile and run. 
+
+Omitting System.out.println:
+If you omit the System.out.println statement, the program will compile and run, but it won't produce any output. You'll see a blank console or terminal.
+
+Omitting ; (Semicolon):
+Omitting a semicolon at the end of a statement will result in a compilation error. 
+
+Omitting Curly Braces {}:
+If you omit the opening or closing curly brace ({}) for the main method or a code block, you'll get a compilation error.
+
+Misspelling Identifier Names:
+If you misspell identifiers, you'll get a compilation error. 
