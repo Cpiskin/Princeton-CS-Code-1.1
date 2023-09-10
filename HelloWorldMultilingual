@@ -2,7 +2,8 @@ public class HelloWorldMultilingual {
 
 	public static void main(String[] args) {
 
-		   System.out.println("Hello World! (English)");
+		System.out.println("Merhaba Dünya! (Turkish)");		
+		System.out.println("Hello World! (English)");
 	        System.out.println("¡Hola Mundo! (Spanish)");
 	        System.out.println("Bonjour le Monde! (French)");
 	        System.out.println("Hallo Welt! (German)");
