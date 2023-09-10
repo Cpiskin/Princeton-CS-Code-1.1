@@ -1,0 +1,22 @@
+import java.util.Scanner;
+
+public class UseThree {
+
+	public static void main(String[] args) {
+		
+		Scanner s = new Scanner(System.in);
+		
+		System.out.println("Enter first name ==>> ");
+		String n1 = s.nextLine();
+		
+		System.out.println("Enter first name ==>> ");
+		String n2 = s.nextLine();
+		
+		System.out.println("Enter first name ==>> ");
+		String n3 = s.nextLine();
+
+		System.out.println("Hi " + n1 + ", " + n2 + ", " + n3);
+		
+	}
+
+}
