@@ -1,0 +1,20 @@
+public class HelloWorldMultilingual {
+
+	public static void main(String[] args) {
+
+		   System.out.println("Hello World! (English)");
+	        System.out.println("¡Hola Mundo! (Spanish)");
+	        System.out.println("Bonjour le Monde! (French)");
+	        System.out.println("Hallo Welt! (German)");
+	        System.out.println("Ciao Mondo! (Italian)");
+	        System.out.println("Olá Mundo! (Portuguese)");
+	        System.out.println("Привет, Мир! (Russian)");
+	        System.out.println("你好，世界！ (Chinese Simplified)");
+	        System.out.println("こんにちは、世界！ (Japanese)");
+	        System.out.println("안녕하세요, 세계! (Korean)");
+	        System.out.println("مرحبا بالعالم! (Arabic)");
+	        System.out.println("नमस्ते दुनिया! (Hindi)");
+	        
+	}
+
+}
